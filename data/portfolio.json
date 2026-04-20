@@ -1,0 +1,82 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "App E-Commerce Premium",
+      "category": "E-Commerce",
+      "description": "Application mobile complète pour une marque de luxe avec paiements sécurisés et gestion d'inventaire en temps réel.",
+      "image": "/portfolio/ecommerce.jpg",
+      "technologies": ["React Native", "Node.js", "Stripe", "MongoDB"],
+      "results": {
+        "Téléchargements": "50K+",
+        "Rating": "4.8",
+        "Revenue": "+150%"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Plateforme Fitness",
+      "category": "Santé",
+      "description": "App de coaching personnel avec suivi d'activité, plans d'entraînement personnalisés et communauté.",
+      "image": "/portfolio/fitness.jpg",
+      "technologies": ["Flutter", "Firebase", "Wearables", "Cloud Functions"],
+      "results": {
+        "Téléchargements": "100K+",
+        "Rating": "4.9",
+        "Utilisateurs": "30K"
+      }
+    },
+    {
+      "id": 3,
+      "title": "SaaS Gestion Projet",
+      "category": "Productivité",
+      "description": "Plateforme collaborative pour la gestion de projets en temps réel avec teams et notifications push.",
+      "image": "/portfolio/saas.jpg",
+      "technologies": ["React", "PostgreSQL", "Socket.io", "AWS"],
+      "results": {
+        "Entreprises": "500+",
+        "Rating": "4.7",
+        "Uptime": "99.9%"
+      }
+    },
+    {
+      "id": 4,
+      "title": "App Livraison Rapide",
+      "category": "Logistique",
+      "description": "Solution complète de livraison avec tracking GPS, optimisation de trajets et notifications en temps réel.",
+      "image": "/portfolio/delivery.jpg",
+      "technologies": ["React Native", "Google Maps", "Node.js", "Redis"],
+      "results": {
+        "Livraisons": "1M+",
+        "Rating": "4.6",
+        "Gain": "40%"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Marketplace Artisans",
+      "category": "Marché",
+      "description": "Plateforme connecting artisans et clients avec système de notation et messagerie intégrée.",
+      "image": "/portfolio/marketplace.jpg",
+      "technologies": ["Flutter", "Firebase", "Stripe", "Cloud Storage"],
+      "results": {
+        "Artisans": "2K+",
+        "Rating": "4.8",
+        "Transactions": "5K+"
+      }
+    },
+    {
+      "id": 6,
+      "title": "App Bancaire",
+      "category": "Finance",
+      "description": "Application bancaire mobile avec authentification biométrique, virements et gestion de comptes.",
+      "image": "/portfolio/banking.jpg",
+      "technologies": ["iOS/Android", "OpenSSL", "Banking APIs", "JWT"],
+      "results": {
+        "Comptes": "100K+",
+        "Sécurité": "ISO27001",
+        "Rating": "4.9"
+      }
+    }
+  ]
+}

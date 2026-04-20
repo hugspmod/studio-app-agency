@@ -1,0 +1,49 @@
+{
+  "services": [
+    {
+      "id": "mobile-apps",
+      "title": "Applications Mobiles",
+      "shortDescription": "Créations d'apps natives et cross-platform",
+      "description": "Nous créons des applications mobiles natives pour iOS et Android, ou des solutions cross-platform avec React Native et Flutter pour un développement optimisé.",
+      "icon": "📱",
+      "technologies": ["React Native", "Flutter", "Swift", "Kotlin", "Firebase"],
+      "process": ["Discovery & Planning", "Design", "Développement", "Testing", "Lancement"],
+      "benefits": [
+        "Performance optimale",
+        "Interface native",
+        "Maintenance facile",
+        "Scalabilité assurée"
+      ]
+    },
+    {
+      "id": "design-uiux",
+      "title": "Design UX/UI + Backend",
+      "shortDescription": "Design modernes et APIs robustes",
+      "description": "Nous combinons un design UX/UI captivant avec des architectures backend solides et sécurisées pour créer des expériences utilisateur exceptionnelles.",
+      "icon": "🎨",
+      "technologies": ["Figma", "Node.js", "Express", "MongoDB", "PostgreSQL"],
+      "process": ["Research & Wireframing", "Design", "Prototyping", "Backend Dev", "Integration"],
+      "benefits": [
+        "Expérience utilisateur fluide",
+        "APIs performantes",
+        "Données sécurisées",
+        "Intégrations tierces"
+      ]
+    },
+    {
+      "id": "maintenance-support",
+      "title": "Maintenance & Support",
+      "shortDescription": "Support continu et évolutions",
+      "description": "Nous assurons la maintenance, les mises à jour et les évolutions de vos applications pour garantir une performance optimale et la satisfaction utilisateur.",
+      "icon": "🔧",
+      "technologies": ["CI/CD", "Monitoring", "Testing", "DevOps"],
+      "process": ["Monitoring", "Bug Fixes", "Updates", "Performance Tuning", "Reporting"],
+      "benefits": [
+        "Disponibilité 99.9%",
+        "Temps de réponse rapide",
+        "Mises à jour régulières",
+        "Support 24/7"
+      ]
+    }
+  ]
+}

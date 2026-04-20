@@ -1,0 +1,52 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "name": "Alex Martin",
+      "position": "CEO & Lead Developer",
+      "bio": "Fondateur avec 10+ ans d'expérience en développement mobile. Passionné par l'innovation et la création.",
+      "image": "/team/alex.jpg",
+      "expertise": ["React Native", "Architecture", "Leadership"],
+      "social": {
+        "linkedin": "#",
+        "twitter": "#"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sophie Dupont",
+      "position": "Lead Designer",
+      "bio": "Spécialiste UX/UI avec un portefeuille international. Elle crée des interfaces qui captent l'essence des marques.",
+      "image": "/team/sophie.jpg",
+      "expertise": ["UX/UI Design", "Figma", "User Research"],
+      "social": {
+        "linkedin": "#",
+        "twitter": "#"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Marc Bouvier",
+      "position": "Senior Backend Engineer",
+      "bio": "Expert en architecture backend et DevOps. Specialisé dans les solutions scalables et sécurisées.",
+      "image": "/team/marc.jpg",
+      "expertise": ["Node.js", "AWS", "Database Design"],
+      "social": {
+        "linkedin": "#",
+        "twitter": "#"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Julia Fernandez",
+      "position": "QA & Testing Lead",
+      "bio": "Responsable de la qualité avec une attention au détail exceptionnelle. Garantit que chaque app est parfaite.",
+      "image": "/team/julia.jpg",
+      "expertise": ["QA Testing", "Automation", "Performance"],
+      "social": {
+        "linkedin": "#",
+        "twitter": "#"
+      }
+    }
+  ]
+}

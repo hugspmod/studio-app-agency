@@ -1,0 +1,49 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "author": "Jean Moreau",
+      "company": "TechStart Inc",
+      "position": "CEO",
+      "message": "Studio a transformé notre vision en une application extraordinaire. Leur expertise, créativité et professionnalisme sont incomparables. Résultat : plus de 50K téléchargements en 3 mois !",
+      "rating": 5,
+      "image": "/testimonials/jean.jpg"
+    },
+    {
+      "id": 2,
+      "author": "Marie Laurent",
+      "company": "Eco Retail Solutions",
+      "position": "Directrice Produit",
+      "message": "Travailler avec Studio a été un plaisir. Leur équipe comprend vraiment les besoins du marché et livre des solutions qui dépassent les attentes.",
+      "rating": 5,
+      "image": "/testimonials/marie.jpg"
+    },
+    {
+      "id": 3,
+      "author": "Pierre Leclerc",
+      "company": "FinanceFlow",
+      "position": "CTO",
+      "message": "Nous avions des exigences strictes de sécurité. Studio a livré une application bancaire conforme et performante. Leur niveau technique est impressionnant.",
+      "rating": 5,
+      "image": "/testimonials/pierre.jpg"
+    },
+    {
+      "id": 4,
+      "author": "Sophie Gauthier",
+      "company": "WellnessHub",
+      "position": "Fondatrice",
+      "message": "De l'idée à la publication, Studio nous a guidé à chaque étape. Leur design est magnifique et l'app est très intuitive.",
+      "rating": 5,
+      "image": "/testimonials/sophie.jpg"
+    },
+    {
+      "id": 5,
+      "author": "Thomas Vincent",
+      "company": "LogisticsPro",
+      "position": "Responsable IT",
+      "message": "Studio a livré en temps et en heure, avec un code de qualité production. Le support post-lancement est aussi excellent.",
+      "rating": 5,
+      "image": "/testimonials/thomas.jpg"
+    }
+  ]
+}
