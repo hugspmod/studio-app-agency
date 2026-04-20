@@ -2,11 +2,6 @@
 
 import { Award, Users, Zap, Target, Heart, Rocket } from "lucide-react";
 
-export const metadata = {
-  title: "À Propos | Studio",
-  description: "Découvrez l'histoire de Studio et notre mission de créer des applications exceptionnelles.",
-};
-
 export default function About() {
   const values = [
     {

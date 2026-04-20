@@ -2,11 +2,6 @@
 
 import { Microscope, Palette, Code, Bug, Rocket, Headphones } from "lucide-react";
 
-export const metadata = {
-  title: "Processus | Studio",
-  description: "Découvrez notre processus de création d'applications.",
-};
-
 export default function Process() {
   const steps = [
     {

@@ -3,11 +3,6 @@
 import { useState } from "react";
 import { Star, Download, Globe } from "lucide-react";
 
-export const metadata = {
-  title: "Portfolio | Studio",
-  description: "Découvrez les applications que nous avons créées.",
-};
-
 const projects = [
   {
     id: 1,

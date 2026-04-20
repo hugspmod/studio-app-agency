@@ -2,11 +2,6 @@
 
 import { Smartphone, Palette, Zap, Code, Layers, Cpu, Rocket, Gauge } from "lucide-react";
 
-export const metadata = {
-  title: "Services | Studio",
-  description: "Découvrez nos services de développement d'applications mobiles.",
-};
-
 export default function Services() {
   const services = [
     {
